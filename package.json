@@ -1,0 +1,27 @@
+{
+  "name": "summer-project-task1",
+  "version": "1.0.0",
+  "description": "The implementation of the first task, from the summer school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimJ/SummerProjectTask1.git"
+  },
+  "keywords": [
+    "#blockchain",
+    "#IoT"
+  ],
+  "author": "mmlab-students",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimJ/SummerProjectTask1/issues"
+  },
+  "homepage": "https://github.com/DimJ/SummerProjectTask1#readme",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.15",
+    "web3": "^1.2.0"
+  }
+}
